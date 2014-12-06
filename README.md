@@ -1,7 +1,7 @@
 Cloyne Hackerspace
 ==================
 
-This repository is used to help coordinate Cloyne hackerspace development.
+This repository is used to help coordinate [Cloyne](http://cloyne.org/) hackerspace development.
 
 * [Hackerspace wiki](https://github.com/cloyne/hackerspace/wiki)
 * [Hackerspace tickets](https://github.com/cloyne/hackerspace/issues)
