@@ -1,0 +1,125 @@
+Makerspace 1st Meeting: Spring 2015 Lib Ed Room 8:00pm
+Attendees:
+Cailey, Sarah, Mitar, Alex, Leslie, James, Kolas, Mathilda, Matthew, Gary, Max, Drew
+
+
+Cailey: Let's start. I'm the hackerspace manager. I'll fascilitate a conversation about the space.
+3rd year Manatee
+Mathilda:
+2nd year emu
+James:
+2nd year undeclared
+Leslie:
+Junior bear
+Kolas:
+want to be photographed? grad student philosophy, sparrow
+Alex:
+2nd year eecs, mechanical, deer
+Sarah:
+3rd year Psychology snow leopard
+Gary:
+6th year molecular and environmental biology, mitar
+Matthew:
+2nd year eecs, giant squid
+Mitar:
+CS phd 3rd year, dolphin
+Cailey:
+let's talk about your ideas for the semester. feeling comfortable in the space. first lets talk about the definition of a hackerspace.
+let's start off by watching a video
+
+*watch video*
+
+Cailey:
+Any thoughts?
+Gary: How do we know about the credibility of Mitch?
+
+*proceed to look at cloyne.org blog post about soldering workshop*
+
+Cailey:
+Any questions about the video?
+
+Sarah:How are these hackerspaces funded?
+
+Max: I've been to noisebrdige, they survive off of donations.
+
+Mitar: I heard that rent in the most expensive part.
+Equipment 1.donations 2.hack it! (find the materials) 3. recycling etc.
+for cloyne: Madeline from central is working with Alumni to get funding
+
+Cailey: I heard that initial costs are high. But individuals bring equipment. Very scrapy, individuals coming together. We have to start from ground zero.
+
+Mitar: good questions: maybe get corporate sponorships. necessity is the mother of creativity
+
+Cailey: sometimes buisnesses will give equipement
+
+Mitar. doesn't have to be technical. this is cheaper than techincal things (sewing)
+
+Cailey: so what do we want in the space? ideas?
+
+Matthew: industrial sowing machine
+Cailey: for what?
+Matthew: you can make anything with cloth
+Sarah: also close to free pile! for fabric
+Mitar: main hallway for fashion show!
+Mathilda: art supplies, diy canvases
+Sarah: recycled art projects
+*snaps*
+Mitar: burning man
+Gary: burning cloyne
+Cailey: geodome: google it
+habitable things
+Mitar: we have some of the materials for it
+Cailey: good that people are into recycled art projects. lots of things in there to be reused
+Gary: Free room and ewaste. I will contact central to get rid of stuff in there. Central level duty, clean out freepile. pls use useless stuff
+it's a storage issue, use da stuff. contact Gary to take things, use as much stuff as possible. Ewaste is picked up frequently twice a month
+we have a box of textile that needs to be picked up
+Mitar: two piles, one for ewaste, one for hackerspace from cleaning of house
+Cailey: assign people to work on different projects. work in teams, dark room, repurposing old poles. Let's be able to work on our own time
+Drew: dark room is separate room? We should clean out first. That should be the first priority
+Mathilda: What part is actually the hackerspace?
+Mitar: main room is basically the spot. everything is the hackerspace. even band room. paint room too!
+Cailey: Garden project is also going on. Inside metal gate. Main project: main space. Idea: white boards, moveable tables.
+Any other ideas?
+Mitar: but first we need to clean up. but keep in mind what you want to work on.
+Cailey: Task list is online. Check email/github
+
+*look at github*
+
+Mitar: we have mailing list, git open source version control
+Cailey: connecting with other hackerspaces is powerful
+Mitar: 25 people on mailig list
+Tickets/Issues: things that we need to do
+Cailey: Ill put the main thing Im going to do.
+Mitar: Saturday work days are powerful, but feel free to work anytime. Submit tickets! Talk to each other!
+Matthew: Have we already bought the things on the tickets?
+Mitar: we got money from a motion. we first need to clear out the space first. $1500 budget. Houseimprovement & furniture budget we can use.
+James: House level board approved projects. Ask central for money, we'll do the work. Furniture money there is a good amount of money
+as well as academic themed budget.
+Mitar: we have what we need to do it. We just need to do it. We have central support. This is really cool! Wiki: anyone can cantribute and add documentation
+Cailey: after going down to the basement. lets talk about what we are here for, and what is going through our heads.
+Drew: A question about position for hackerspace? Timeline for things to happen. We need more structure and goals for hackerspace.
+Cailey: I agree. we need a timeline. Ill send out weekly emails. It's difficult when things are horizontal, but everyone should push themselves.
+Leslie: field trip to one of these spaces. in san francisco.
+Cailey: Ill coordinate visits to other hackerspaces.
+Mitar: we are lucky that there are nearby hackerspaces.
+Leslie: where can I get a list of hackerspaces in the bay area?
+Cailey: feel free to add anything to the website.
+Alex: Cory Hall, Sutardja dai
+Mitar: omni Oakland has a hackerspace. Noisebridge- San Francisco
+Cailey: let's go this weekend
+Mitar: does time work? 9am-12pm Saturday morning
+Gary: please close windows, turn off lights after you leave.
+Cailey: change workday?
+Leslie: wait for final schedule
+
+Decision: lets go afterbrunch
+
+Mitar: let's go this week, week after lets get to workdays
+Cailey: lets go down to space. but first how do we make it ADA accessible
+Mitar: Graham said it will be the big HI project for this semester
+
+*going down to space*
+
+Cailey: first part. clearing out everything
+
+
